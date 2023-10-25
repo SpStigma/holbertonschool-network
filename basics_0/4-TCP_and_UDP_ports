@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This command lists all active network connections along with the associated processes
+netstat -a -p
